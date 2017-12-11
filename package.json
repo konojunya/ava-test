@@ -1,0 +1,26 @@
+{
+  "name": "ava-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konojunya/ava-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konojunya/ava-test/issues"
+  },
+  "homepage": "https://github.com/konojunya/ava-test#readme",
+  "devDependencies": {
+    "ava": "^0.24.0"
+  }
+}
